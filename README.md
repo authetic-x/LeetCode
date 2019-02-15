@@ -5,6 +5,12 @@
 *   [#01 Two Sum](Array/01-Two_Sum.cpp)
 *   [#04 Median of two sorted arrays](Array/04-Median_of_sorted_arrays.cpp)
 
+##  Two Pointers
+
+*   [#11 Container with most water](Two_Pointers/11-Container_With_Most_Water.cpp)
+*   [#125 Valid Palindrome](Two_Pointers/125-Valid_Palindrome.cpp)
+*   [#15 3sum](Two_Pointers/15-3sum.cpp)
+
 ##  Greedy
 
 *   [#55 Jump Game](Greedy/55-Jump_Game.cpp)
