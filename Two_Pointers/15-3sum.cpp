@@ -13,9 +13,10 @@ public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         vector<vector<int>> ans;
         int len = nums.size();
-        if (len == 0) return ans;
+        if (len < 3) return ans;
         sort(nums.begin(), nums.end());
         for (int i = 0; i < len; i ++ ) {
+            if (nums[i] > 0) break;
             if (i != 0 && nums[i] == nums[i-1]) continue;
             int j = i + 1, k = len-1;
             while (j < k) {

@@ -7,9 +7,11 @@
 
 ##  Two Pointers
 
+*   [#03 Longest Substring without repeating characters](Two_Pointers/3-Longest_String_WRC.cpp)
 *   [#11 Container with most water](Two_Pointers/11-Container_With_Most_Water.cpp)
 *   [#125 Valid Palindrome](Two_Pointers/125-Valid_Palindrome.cpp)
 *   [#15 3sum](Two_Pointers/15-3sum.cpp)
+*   [#16 3sum Closest](Two_Pointers/16-3sum_Closest.cpp)
 
 ##  Greedy
 
