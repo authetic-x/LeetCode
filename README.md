@@ -5,6 +5,10 @@
 *   [#01 Two Sum](Array/01-Two_Sum.cpp)
 *   [#04 Median of two sorted arrays](Array/04-Median_of_sorted_arrays.cpp)
 
+##  Math
+
+*   [#02 Add Two Numbers](Math/02-Add_Two_Numbers.cpp)
+
 ##  Two Pointers
 
 *   [#03 Longest Substring without repeating characters](Two_Pointers/3-Longest_String_WRC.cpp)
@@ -12,6 +16,7 @@
 *   [#125 Valid Palindrome](Two_Pointers/125-Valid_Palindrome.cpp)
 *   [#15 3sum](Two_Pointers/15-3sum.cpp)
 *   [#16 3sum Closest](Two_Pointers/16-3sum_Closest.cpp)
+*   [#18 4sum](Two_Pointers/18-4sum.cpp)
 
 ##  Greedy
 
