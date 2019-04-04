@@ -123,32 +123,32 @@ Greedy/fast:
 	$(MAKE) -f CMakeFiles/Greedy.dir/build.make CMakeFiles/Greedy.dir/build
 .PHONY : Greedy/fast
 
-Greedy/134-Gas_Station.o: Greedy/134-Gas_Station.cpp.o
+ByteDance/2018/05-C_annotation.o: ByteDance/2018/05-C_annotation.cpp.o
 
-.PHONY : Greedy/134-Gas_Station.o
+.PHONY : ByteDance/2018/05-C_annotation.o
 
 # target to build an object file
-Greedy/134-Gas_Station.cpp.o:
-	$(MAKE) -f CMakeFiles/Greedy.dir/build.make CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.o
-.PHONY : Greedy/134-Gas_Station.cpp.o
+ByteDance/2018/05-C_annotation.cpp.o:
+	$(MAKE) -f CMakeFiles/Greedy.dir/build.make CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.o
+.PHONY : ByteDance/2018/05-C_annotation.cpp.o
 
-Greedy/134-Gas_Station.i: Greedy/134-Gas_Station.cpp.i
+ByteDance/2018/05-C_annotation.i: ByteDance/2018/05-C_annotation.cpp.i
 
-.PHONY : Greedy/134-Gas_Station.i
+.PHONY : ByteDance/2018/05-C_annotation.i
 
 # target to preprocess a source file
-Greedy/134-Gas_Station.cpp.i:
-	$(MAKE) -f CMakeFiles/Greedy.dir/build.make CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.i
-.PHONY : Greedy/134-Gas_Station.cpp.i
+ByteDance/2018/05-C_annotation.cpp.i:
+	$(MAKE) -f CMakeFiles/Greedy.dir/build.make CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.i
+.PHONY : ByteDance/2018/05-C_annotation.cpp.i
 
-Greedy/134-Gas_Station.s: Greedy/134-Gas_Station.cpp.s
+ByteDance/2018/05-C_annotation.s: ByteDance/2018/05-C_annotation.cpp.s
 
-.PHONY : Greedy/134-Gas_Station.s
+.PHONY : ByteDance/2018/05-C_annotation.s
 
 # target to generate assembly for a file
-Greedy/134-Gas_Station.cpp.s:
-	$(MAKE) -f CMakeFiles/Greedy.dir/build.make CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.s
-.PHONY : Greedy/134-Gas_Station.cpp.s
+ByteDance/2018/05-C_annotation.cpp.s:
+	$(MAKE) -f CMakeFiles/Greedy.dir/build.make CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.s
+.PHONY : ByteDance/2018/05-C_annotation.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Greedy"
 	@echo "... edit_cache"
-	@echo "... Greedy/134-Gas_Station.o"
-	@echo "... Greedy/134-Gas_Station.i"
-	@echo "... Greedy/134-Gas_Station.s"
+	@echo "... ByteDance/2018/05-C_annotation.o"
+	@echo "... ByteDance/2018/05-C_annotation.i"
+	@echo "... ByteDance/2018/05-C_annotation.s"
 .PHONY : help
 
 

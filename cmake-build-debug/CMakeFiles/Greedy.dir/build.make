@@ -57,27 +57,27 @@ include CMakeFiles/Greedy.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Greedy.dir/flags.make
 
-CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.o: CMakeFiles/Greedy.dir/flags.make
-CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.o: ../Greedy/134-Gas_Station.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/hp/Desktop/Projects/C++ Projects/LeetCode/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.o -c "/cygdrive/c/Users/hp/Desktop/Projects/C++ Projects/LeetCode/Greedy/134-Gas_Station.cpp"
+CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.o: CMakeFiles/Greedy.dir/flags.make
+CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.o: ../ByteDance/2018/05-C_annotation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/hp/Desktop/Projects/C++ Projects/LeetCode/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.o -c "/cygdrive/c/Users/hp/Desktop/Projects/C++ Projects/LeetCode/ByteDance/2018/05-C_annotation.cpp"
 
-CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/hp/Desktop/Projects/C++ Projects/LeetCode/Greedy/134-Gas_Station.cpp" > CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.i
+CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/hp/Desktop/Projects/C++ Projects/LeetCode/ByteDance/2018/05-C_annotation.cpp" > CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.i
 
-CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/hp/Desktop/Projects/C++ Projects/LeetCode/Greedy/134-Gas_Station.cpp" -o CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.s
+CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/hp/Desktop/Projects/C++ Projects/LeetCode/ByteDance/2018/05-C_annotation.cpp" -o CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.s
 
 # Object files for target Greedy
 Greedy_OBJECTS = \
-"CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.o"
+"CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.o"
 
 # External object files for target Greedy
 Greedy_EXTERNAL_OBJECTS =
 
-Greedy.exe: CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.o
+Greedy.exe: CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.o
 Greedy.exe: CMakeFiles/Greedy.dir/build.make
 Greedy.exe: CMakeFiles/Greedy.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/c/Users/hp/Desktop/Projects/C++ Projects/LeetCode/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Greedy.exe"

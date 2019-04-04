@@ -1,1 +1,1 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.o  -o Greedy.exe -Wl,--out-implib,libGreedy.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.o  -o Greedy.exe -Wl,--out-implib,libGreedy.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

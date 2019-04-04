@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Greedy.dir/Greedy/134-Gas_Station.cpp.o"
+  "CMakeFiles/Greedy.dir/ByteDance/2018/05-C_annotation.cpp.o"
   "Greedy.pdb"
   "Greedy.exe"
   "libGreedy.dll.a"

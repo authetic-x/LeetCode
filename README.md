@@ -24,3 +24,9 @@
 *   [#122 Best time to buy and sell stock II](Greedy/122-Best_time_to_buy_and_sell_stock_II.cpp)
 *   [#134 Gas Station](Greedy/134-Gas_Station.cpp)
 *   [#376 Wiggle Subsequence](Greedy/376-Wiggle_Subsequence.cpp)
+
+##  Binary Search
+
+*   [#29 Divide Two Integers](Binary_Search/29-Divide_Two_Integers.cpp)
+*   [#33 Search In Rotated Sorted Array](Binary_Search/33-Search_In_Rotated_Sorted_Array.cpp)
+*   [#34 Find First and Last Position Of a Element in sorted Array](Binary_Search/34-Find_FL_In_Sorted_Array.cpp)
