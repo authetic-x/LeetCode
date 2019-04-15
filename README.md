@@ -5,6 +5,10 @@
 *   [#01 Two Sum](Array/01-Two_Sum.cpp)
 *   [#04 Median of two sorted arrays](Array/04-Median_of_sorted_arrays.cpp)
 
+## LinkedList
+
+*   [#19 Remove Nth node from end of the list]()
+
 ##  Math
 
 *   [#02 Add Two Numbers](Math/02-Add_Two_Numbers.cpp)
@@ -30,3 +34,6 @@
 *   [#29 Divide Two Integers](Binary_Search/29-Divide_Two_Integers.cpp)
 *   [#33 Search In Rotated Sorted Array](Binary_Search/33-Search_In_Rotated_Sorted_Array.cpp)
 *   [#34 Find First and Last Position Of a Element in sorted Array](Binary_Search/34-Find_FL_In_Sorted_Array.cpp)
+*   [#35 Search Insert Position](Binary_Search/35-Search_Insert_Position.cpp)
+*   [#50 Pow(x, n)](Binary_Search/50-Pow(x,n).py)
+*   [#69 Sqrt(x)](Binary_Search/69-Sqrt(x).cpp)
